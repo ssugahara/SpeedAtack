@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">こんばんわ！</string>
+    <string name="app_name">SpeedAttackアプリ</string>
+    <string name="startBtn">"開始"</string>
+<string name="chronometerFormat">経過時間 %s</string>
+
+</resources>
